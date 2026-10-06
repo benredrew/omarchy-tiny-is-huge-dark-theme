@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Tiny Is Huge Dark: the same coneflower close-up, dark as the beetle on its
+# petals. Beetle-black surfaces, petal-cream text, goldenrod focus from the
+# cone, and bright leaf greens for growth.
+accent = "#D9A520"
+selection = "#2E3A3D"
+muted = "#7A7F64"
+
+background = "#121618"
+dark_background = "#0D1012"
+darker_background = "#080A0B"
+lighter_background = "#1F2528"
+
+foreground = "#E7EEDC"
+dark_foreground = "#8E9175"
+light_foreground = "#C9D3C0"
+bright_foreground = "#F5F8EE"
+
+# Window focus runs from the sunlit cone into the leaves behind it.
+hyprland_active_border = "#D9A520 #7FA65A 45deg"
+hyprland_inactive_border = "#2C3235"
+
+red = "#E07A5A"
+yellow = "#E3B341"
+orange = "#E0904A"
+green = "#9CC46A"
+cyan = "#7EC4B4"
+blue = "#8AB0D6"
+magenta = "#D38FB8"
+brown = "#A7834F"
+
+bright_red = "#F09A7E"
+bright_yellow = "#F2CC6A"
+bright_green = "#B8DA8C"
+bright_cyan = "#A2DACC"
+bright_blue = "#AECAE6"
+bright_magenta = "#E6B0D0"
